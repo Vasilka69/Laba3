@@ -1,4 +1,8 @@
+/tmp
+/*.html
+/*.xml
 /.idea
+/.codacy-coverage
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
